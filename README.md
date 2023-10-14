@@ -11,7 +11,7 @@ Open your terminal or command prompt.
 
 Navigate to the directory where you want to store the project on your local machine using the cd (change directory) command.
 
-In your browser, open the GitHub repository: [Link to the GitHub repository]
+In your browser, open the GitHub repository: "https://github.com/imayankbisht/Manufac_Task/tree/master"
 
 Click the "Code" button located above the file list. This will reveal a URL for the repository. You can choose to clone using HTTPS.
 
