@@ -25,3 +25,11 @@ git clone <repository URL>
 Replace <repository URL> with the URL you copied in step 5.
 
 Press Enter. Git will download the project files to your local directory.
+
+Screenshots:
+
+![image](https://github.com/imayankbisht/Manufac_Task/assets/77320100/ba956d5e-dde2-48ef-a95c-3b3a288f6479)
+
+![image](https://github.com/imayankbisht/Manufac_Task/assets/77320100/70516922-5570-4a3b-8b45-7f4a93ad930a)
+
+
